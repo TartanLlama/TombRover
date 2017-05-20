@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/delightfuldunge/!svn/ver/256/Dungeon/Game/Objects
+END
+Weapon.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/delightfuldunge/!svn/ver/216/Dungeon/Game/Objects/Weapon.py
+END
+Player.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/delightfuldunge/!svn/ver/256/Dungeon/Game/Objects/Player.py
+END
+Character.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/delightfuldunge/!svn/ver/211/Dungeon/Game/Objects/Character.py
+END
+Item.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/delightfuldunge/!svn/ver/214/Dungeon/Game/Objects/Item.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/delightfuldunge/!svn/ver/244/Dungeon/Game/Objects/__init__.py
+END
+Armour.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/delightfuldunge/!svn/ver/216/Dungeon/Game/Objects/Armour.py
+END
+Object.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/delightfuldunge/!svn/ver/108/Dungeon/Game/Objects/Object.py
+END
+Potion.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/delightfuldunge/!svn/ver/234/Dungeon/Game/Objects/Potion.py
+END
+Constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/delightfuldunge/!svn/ver/256/Dungeon/Game/Objects/Constants.py
+END
+Staircase.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/delightfuldunge/!svn/ver/214/Dungeon/Game/Objects/Staircase.py
+END
+Sack.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/delightfuldunge/!svn/ver/245/Dungeon/Game/Objects/Sack.py
+END
+CharacterClass.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/delightfuldunge/!svn/ver/243/Dungeon/Game/Objects/CharacterClass.py
+END
+Gold.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/delightfuldunge/!svn/ver/214/Dungeon/Game/Objects/Gold.py
+END
+Monster.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/delightfuldunge/!svn/ver/250/Dungeon/Game/Objects/Monster.py
+END
+Food.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/delightfuldunge/!svn/ver/214/Dungeon/Game/Objects/Food.py
+END

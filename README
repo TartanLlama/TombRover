@@ -1,0 +1,25 @@
+Run python TombRover.py in Dungeon to play the game
+
+Buttons are:
+
+yuhjklbn - movement
+. - rest
+
+w - wield weapon
+W - wear armour
+t - unwield weapon
+T - take off armour
+q - quaff potion
+f - fire arrow
+, - pick up item
+e - eat food
+d - drop item
+
+< - go up stairs
+> - go down stairs
+
+C^s - save
+C^o - load
+C^n - new game
+
+
